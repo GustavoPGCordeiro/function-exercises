@@ -88,7 +88,7 @@ This project was created to practice:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/your-username/function-exercises.git
 ```
 
 2. Open the project folder.
